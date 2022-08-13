@@ -1,0 +1,23 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.para {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  justify-content: center;
+}
+
+.para-one {
+  text-align: center;
+}
+
+.para-two {
+  grid-column: 2 / 4;
+}
+
+.para-three {
+  grid-column-start: 4;
+  grid-column-end: 7;
+}
