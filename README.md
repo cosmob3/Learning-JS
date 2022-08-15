@@ -26,5 +26,8 @@
 - Loops are used to repeat a specific block until some end condition is met
 - Used to run over the same code over and over. But each time with a different value
 
-- _while_ loop
-  `while(condition) { loop code;}`
+- _while loop_ - While the condition is TRUE, the code within the loop is executed
+- `while(condition) { loop code;}`
+
+- _Do while loop_ - This loop will first execute the code, then check the condition and while the condition holds true, execute repeatedly
+- `do { loop code;} while(condition);`
