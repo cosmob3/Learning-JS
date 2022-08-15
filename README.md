@@ -18,3 +18,13 @@
   - && = and. This means that both of the conditions need to be met for the outcome to be true. Otherwise it'll be false.
 
   - || = or. This means that one of the conditions need to be met in order for the outcome to be true.
+
+## AUGUST 15, 2022
+
+**Loops**
+
+- Loops are used to repeat a specific block until some end condition is met
+- Used to run over the same code over and over. But each time with a different value
+
+- _while_ loop
+  `while(condition) { loop code;}`
