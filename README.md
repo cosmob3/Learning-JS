@@ -31,3 +31,6 @@
 
 - _Do while loop_ - This loop will first execute the code, then check the condition and while the condition holds true, execute repeatedly
 - `do { loop code;} while(condition);`
+
+- _For Loop_ - Repeatedly executes the loop code while a given condition is TRUE. It tests the condition before executing the loop body.
+- `for(begin; condition; step) {loop code;}`
