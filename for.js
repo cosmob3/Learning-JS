@@ -14,3 +14,7 @@ for (let i = 0; i < 50; i++) {
 // Outcome:
 // 0. I'm sorry
 // 49. I'm sorry
+
+for (let f = 0; f < 99; f++) {
+  console.log(f + ". I promise to be a good boy and listen to my mom and dad");
+}
