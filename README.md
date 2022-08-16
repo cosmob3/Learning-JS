@@ -1,3 +1,7 @@
+# Learning JS
+
+Attribution: [Web Development Full Course - 10 Hours | Learn Web Development from Scratch by edureka!](https://www.youtube.com/watch?v=Q33KBiDriJY&t=8845s)
+
 ## AUGUST 14, 2022
 
 - **Objects**
@@ -34,3 +38,7 @@
 
 - _For Loop_ - Repeatedly executes the loop code while a given condition is TRUE. It tests the condition before executing the loop body.
 - `for(begin; condition; step) {loop code;}`
+
+## August 16, 2022
+
+**Switch Case** - The switch statement is used to perform different
