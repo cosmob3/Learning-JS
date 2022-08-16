@@ -43,13 +43,15 @@ Attribution: [Web Development Full Course - 10 Hours | Learn Web Development fro
 
 **Switch Case** - The switch statement is used to perform different actions based on different conditions
 
-`switch(expression){`
-`case 1:`
-`code block 1`
-`break;`
-`case 2:`
-`code block 2`
-`break;`
-`default:`
-`code block 3`
-`}`
+```
+switch(expression){
+case 1:
+code block 1
+break;
+case 2:
+code block 2
+break;
+default:
+code block 3
+}
+```
